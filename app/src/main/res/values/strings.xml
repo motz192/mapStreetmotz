@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mapbox_motita</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoibW90ejkyIiwiYSI6ImNreWw3aTVncDI5dGkyd3FoYzd3OWJjN2MifQ.Bo1_cJwQlgzhhXkI23yFYQ</string>
+</resources>
